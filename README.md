@@ -89,3 +89,15 @@ flowchart TD
     style G fill:#E0F2FE,stroke:#0284C7,stroke-width:2px
     style H fill:#FCE7F3,stroke:#DB2777,stroke-width:2px
 ```
+## 🐍 Análise Exploratória de Dados & Ciência Comportamental (Python)
+
+Disponibilizamos um notebook interativo completo em [`conectapet_analytics_eda.ipynb`](./conectapet_analytics_eda.ipynb) com o pipeline de exploração estatística em Pandas e Matplotlib:
+
+### 📈 Principais Insights Extraídos:
+1. **Taxa de Desempenho por Categoria:** Exercícios de *Enriquecimento Ambiental* e *Sinais de Calma* obtiveram as maiores notas médias (4.8 ★), demonstrando rápida assimilação pelos animais com reforço positivo.
+2. **Gargalo Identificado:** Exercícios de *Reatividade na Guia* e *Posse de Recursos* demandam maior tempo de sessão (média de 6.5 minutos) e repetições mais espaçadas.
+3. **Top 3 Desafios Comportamentais:**
+   - 1º Puxar na guia durante passeios (33% da base).
+   - 2º Ansiedade por separação e uivos ao ficar sozinho (27% da base).
+   - 3º Latidos reativos na campainha e visitas (20% da base).
+4. **Volume de Gamificação:** Mais de 2.500 PETCOINS emitidas, validando a economia de incentivos para os tutores.
