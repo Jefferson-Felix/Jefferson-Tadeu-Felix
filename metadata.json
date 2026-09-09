@@ -1,0 +1,6 @@
+{
+  "name": "ConectaPet - Jornada & Anamnese Pet",
+  "description": "App de adestramento positivo gamificado em tabuleiro: rotinas flexíveis (5 a 15min), clicker e marcadores verbais, avatares de raças personalizáveis e loja de petiscos com cupons de parceiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
